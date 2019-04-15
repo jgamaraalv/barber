@@ -1,2 +1,5 @@
 node_modules
-sessions
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+tmp/sessions/*
+!tmp/sessions/.gitkeep
