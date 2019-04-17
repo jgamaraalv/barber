@@ -7,6 +7,10 @@ Remember to install the database and change the configs in /src/config/database.
 
 In the project directory, you can run:
 
+### `yarn install`
+
+Installs the app dependencies.<br>
+
 ### `yarn start`
 
 Runs the app in the production mode.<br>
